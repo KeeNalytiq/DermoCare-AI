@@ -3038,7 +3038,7 @@ st.markdown("""
     <div class="footer-content">
         <p class="footer-brand">AI Dermatological Diagnosis Tool v1.0 | Powered by Deep Learning</p>
         <p class="footer-disclaimer">For Educational & Research Purposes Only</p>
-        <p class="footer-developer">👨‍💻 Developed by: <strong>Keeistu M S</strong></p>
+        <p class="footer-developer">👨‍💻 Developed by: <strong>Ashwineuma K R , Thenmalar S</strong></p>
     </div>
 </div>
 """, unsafe_allow_html=True)
